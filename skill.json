@@ -1,0 +1,13 @@
+{
+  "name": "genpark-b-link-tree-concurrent-indexing-skill",
+  "version": "1.0.0",
+  "description": "Lehman-Yao B-link tree concurrent index enabling lock-free read operations across dynamic node splits with high-key right links.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "database-indexing",
+    "b-link-tree",
+    "lehman-yao",
+    "concurrent-algorithms"
+  ]
+}
